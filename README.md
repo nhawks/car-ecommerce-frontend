@@ -84,7 +84,6 @@
 
 ![Landing Page Screen Shot](https://user-images.githubusercontent.com/89653410/142669166-f5536107-01ef-4176-86d1-c3ba72e434db.png)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `nhawks`, `car-ecommerce-frontend`, `twitter_handle`, `nmhawkins`, `nmhawkins`, `outlook`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -219,21 +218,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 NiGeanya Hawkins - nmhawkins@outlook.com
+<br>
+Matthew Taylor - [LinkedIn](https://www.linkedin.com/in/matt-taylor977/)
+<br>
+Christopher Molitoris - [LinkedIn](https://www.linkedin.com/in/cmolitoris/)
+<br>
+Gavin Corkery - [LinkedIn](https://www.linkedin.com/in/gavincorkery/)
 
 Project Frontend Link: [https://github.com/nhawks/car-ecommerce-frontend](https://github.com/nhawks/car-ecommerce-frontend)
 <br />
 Project Backend Link: [https://github.com/nhawks/car-ecommerce-backend](https://github.com/nhawks/car-ecommerce-backend)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
