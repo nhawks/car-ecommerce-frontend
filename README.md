@@ -28,10 +28,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/nhawks/car-ecommerce-frontend">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">CarGet</h3>
 
@@ -41,7 +41,7 @@
     <a href="https://github.com/nhawks/car-ecommerce-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/nhawks/car-ecommerce-frontend">Video Demo</a>
+    <a href="https://www.youtube.com/watch?v=44NRQpq7yDc">Video Demo</a>
     ·
     <a href="https://github.com/nhawks/car-ecommerce-frontend/issues">Report Bug</a>
     ·
@@ -69,8 +69,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <!-- <li><a href="#roadmap">Roadmap</a></li> -->
+    <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -167,7 +167,7 @@ To get a local copy up and running follow these simple example steps.
 ![Nav_Bar_Logged_In](https://user-images.githubusercontent.com/89653410/142669462-b76a2d07-7ae3-4637-a025-4a3cad5b6d78.png)
 ![Nav_Bar_Logged_out](https://user-images.githubusercontent.com/89653410/142669468-af456607-70ed-4d6a-8ff6-5eff34a2c346.png)
 
-_For more examples, please refer to the [Project Video Demo](https://example.com)_
+_For more examples, please refer to the [Project Video Demo](https://www.youtube.com/watch?v=44NRQpq7yDc)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
