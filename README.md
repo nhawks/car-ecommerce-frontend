@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Landing Page Screen Shot][product-screenshot]](https://user-images.githubusercontent.com/89653410/142669166-f5536107-01ef-4176-86d1-c3ba72e434db.png)
+![Landing Page Screen Shot](https://user-images.githubusercontent.com/89653410/142669166-f5536107-01ef-4176-86d1-c3ba72e434db.png)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `nhawks`, `car-ecommerce-frontend`, `twitter_handle`, `nmhawkins`, `nmhawkins`, `outlook`, `project_title`, `project_description`
 
